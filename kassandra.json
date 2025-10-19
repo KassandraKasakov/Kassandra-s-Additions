@@ -1,0 +1,17 @@
+{
+  "id": "kass",
+  "name": "Kassandra's Additions",
+  "author": [
+    "KassandraKasakov"
+  ],
+  "description": ":3",
+  "prefix": "kass",
+  "main_file": "main.lua",
+  "version": "1.0.a",
+  "priority": 0,
+  "badge_colour": "56a786",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
